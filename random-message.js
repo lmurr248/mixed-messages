@@ -24,7 +24,7 @@ const phraseVariables = {
     "whispered sweet nothings",
     "contemplated the meaning of life",
     "howled at the moon",
-    "did the splits",
+    "did the splits in a pink leotard",
     "blew their nose like a trumpet",
   ],
   locations: [
