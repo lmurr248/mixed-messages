@@ -64,6 +64,10 @@ function generateRandomPhrase() {
   )}!`;
 }
 
-// Generate a random phrase and log it to the console
-const finalPhrase = generateRandomPhrase();
-console.log(finalPhrase);
+// Generate a random phrase when the button is clicked
+function generateMessage() {
+  const finalPhrase = generateRandomPhrase(); // Generate a new random phrase
+  document.getElementById("mixed-message").textContent = finalPhrase;
+  const messageBox = document.getElementById("message-box");
+  messageBox.style.visibility = "visible";
+}
