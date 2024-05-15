@@ -17,7 +17,7 @@ const phraseVariables = {
   actions: [
     "took their first shower in a week",
     "sang into their mother's hairbrush",
-    "disco danced",
+    "disco danced like no one was watching",
     "did the Macarena",
     "did the conga",
     "had their first kiss",
