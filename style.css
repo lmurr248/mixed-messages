@@ -25,6 +25,10 @@ main {
   text-align: center;
 }
 
+#message-box-container {
+  min-height: 200px;
+}
+
 #message-box {
   /* background-color: #ebf6ff; */
   color: #0091ff;
